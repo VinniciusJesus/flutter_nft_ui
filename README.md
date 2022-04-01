@@ -1,6 +1,5 @@
 # Flutter NFT UI
 
-https://mail.google.com/mail/u/0?ui=2&ik=642d914e24&attid=0.2&permmsgid=msg-a:r3206946136845891534&th=17fe50f9fa7903e6&view=att&disp=safe&realattid=17fe50f8b1b26e9bf1e1
+![IMG-20220401-WA0001](https://user-images.githubusercontent.com/57817746/161261921-b769e1a9-9685-4204-96eb-61b03103ce6c.jpg)
+![IMG-20220401-WA0002](https://user-images.githubusercontent.com/57817746/161261939-1e977585-1555-4ccc-afee-7a46daabae7c.jpg)
 
-
-https://mail.google.com/mail/u/0?ui=2&ik=642d914e24&attid=0.1&permmsgid=msg-a:r3206946136845891534&th=17fe50f9fa7903e6&view=att&disp=safe&realattid=17fe50f8b2b26f7d69f2
